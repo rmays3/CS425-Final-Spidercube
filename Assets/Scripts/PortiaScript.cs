@@ -127,7 +127,7 @@ public class PortiaScript : MonoBehaviour {
         if (!camera)
         {
             Debug.LogError(
-              "Could not find the main camera. Ensure it has the player tag set.");
+              "Can't find the camera.");
         }
 
         
@@ -143,7 +143,7 @@ public class PortiaScript : MonoBehaviour {
         if (!fair)
         {
             Debug.LogError(
-              "Could not find the main camera. Ensure it has the player tag set.");
+              "Can't find the fairy.");
         }
         else
         {
@@ -537,10 +537,6 @@ public class PortiaScript : MonoBehaviour {
                     //anim.SetTrigger("StartWalk");
                 }
 
-                if (Input.GetButton("Jump"))
-                {
-                    //do nothing lol
-                }
                 // Move the controller
                 characterController.Move(moveDirection * Time.deltaTime);
             }
