@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Fairy
   - Platform
+  - Egg
+  - Foe
   layers:
   - Default
   - TransparentFX

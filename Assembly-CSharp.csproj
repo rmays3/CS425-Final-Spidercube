@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\FoeScript.cs" />
     <Compile Include="Assets\Scripts\PortiaScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/ryanj/Documents/Fall 2018 Semester/CS425/Assignments/PA01/rmays3-pa01/Unity/Spidercube 1.3/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
