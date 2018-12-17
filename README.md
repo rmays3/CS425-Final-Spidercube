@@ -20,5 +20,5 @@ As of the time of this writing, Portia's model has not properly loaded into Unit
 
 This game uses the Unity enging and uses Blender for Portia's model.  This model was made by me.  You can view all the libraries in the zip file, as it's gargantuan and I don't recognize half the stuff in that folder.  The ones I actually used were Mathf, vectors and quaternions.
 
--Adaptive Camera
+- Adaptive Camera/Camera Planning
  
