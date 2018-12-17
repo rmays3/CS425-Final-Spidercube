@@ -1,6 +1,6 @@
 # It's Spidercube!
 ## Story
-Portia is an explorer of the far reaches of space, a mother of eighty-eight, and a spider.  One day, she came across a magnificent discovery - a portal to the very furthest and strangest reaches of space and time.  But at what cost? The rift in spacetime scooped up all eighty-eight of her eggs, and now they're lost in the cold void! Can Portia rescue her babies and get back home? Or will the bizarre, abstract monsters of space get her first?
+Portia is an explorer of the far reaches of space, a mother of eighty-eight, and a spider.  One day, she came across a magnificent discovery - a portal to the very furthest and strangest reaches of space and time.  But at what cost? The rift in spacetime scooped up all eighty-eight of her eggs, and now they're lost in the cold void! Can Portia rescue her babies and get back home?
 
 ## Gameplay
 
@@ -18,7 +18,7 @@ As of the time of this writing, Portia's model has not properly loaded into Unit
 
 ## Technical Component
 
-This game uses the Unity enging and uses Blender for Portia's model.  This model was made by me.  You can view all the libraries in the zip file, as it's gargantuan and I don't recognize half the stuff in that folder.  The ones I actually used were Mathf, vectors and quaternions.
+This game uses the Unity enging and uses Blender for Portia's model.  This model was made by me.  You can view all the libraries in the zip file, as it's gargantuan and I don't recognize half the stuff in that folder.  The ones I actually used were Mathf, vectors and quaternions.  The music used is "Garden Party" by TRG Banks.  http://freemusicarchive.org/music/TRG_Banks/The_Rainbows_End/Garden_party It is in the public domain but I am not affiliated with the artist and the artist doesn't endorse me.
 
 - Adaptive Camera/Camera Planning
   - The camera in this game will adjust to view any faces that are blocking the player's view of Portia.  The camera will also focus on the center of a platform if Portia is there or will be there, then follow Portia freely if she goes out of the center.
